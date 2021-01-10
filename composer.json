@@ -1,7 +1,7 @@
 {
-  "name":"soxCult/newTT",
+  "name":"sox-cult/jx-message",
   "description":"composer+git代码提交保存测试",
-  "keywords":["message", "yii2"],
+  "keywords":["message", "jx"],
   "homepage":"https://github.com/soxCult/newTT",
   "type":"library",
   "license":"MIT",
