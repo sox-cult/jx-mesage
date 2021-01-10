@@ -1,8 +1,8 @@
 {
-  "name":"sox-cult/jx-message",
+  "name":"sox-cult/jxmessage",
   "description":"composer+git代码提交保存测试",
   "keywords":["message", "jx"],
-  "homepage":"https://github.com/soxCult/newTT",
+  "homepage":"https://github.com/sox-cult/jxmessage",
   "type":"library",
   "license":"BSD-3-Clause",
   "authors":[
@@ -12,7 +12,7 @@
     }
   ],
   "support": {
-    "source": "https://github.com/soxCult/newTT"
+    "source": "https://github.com/sox-cult/jxmessage"
   },
   "minimum-stability": "dev",
   "require": {
@@ -21,7 +21,7 @@
   },
   "autoload":{
     "psr-4": {
-      "icePHP\\": "src"
+      "JXMessage\\": "src"
     }
   },
   "config": {

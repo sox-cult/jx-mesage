@@ -1,5 +1,5 @@
 <?php
-namespace common\service\message\sender;
+namespace JXmessage\sender;
 
 abstract class sender
 {
