@@ -1,6 +1,6 @@
 <?php
-namespace common\service\message;
-use common\service\message\sender\sender;
+namespace message;
+use message\sender\sender;
 use yii;
 
 class MessageService

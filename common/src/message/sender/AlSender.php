@@ -1,5 +1,5 @@
 <?php
-namespace common\service\message\sender;
+namespace message\sender;
 use yii;
 class AlSender extends sender
 {
