@@ -1,0 +1,30 @@
+{
+  "name":"soxCult/newTT",
+  "description":"composer+git代码提交保存测试",
+  "keywords":["message", "yii2"],
+  "homepage":"https://github.com/soxCult/newTT",
+  "type":"library",
+  "license":"MIT",
+  "authors":[
+    {
+      "name":"ghj",
+      "email":"1240937629@qq.com"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/soxCult/newTT"
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.6.0 <8.1",
+    "ext-json": "*"
+  },
+  "autoload":{
+    "psr-4": {
+      "icePHP\\": "src"
+    }
+  },
+  "config": {
+    "process-timeout": 1800
+  }
+}
