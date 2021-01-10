@@ -1,6 +1,6 @@
 <?php
-namespace message;
-use message\sender\sender;
+namespace JXmessage;
+use JXmessage\sender\sender;
 use yii;
 
 class MessageService
